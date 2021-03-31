@@ -1,0 +1,35 @@
+.game-card {
+    height: 100vh;
+    font-family: 'Open Sans', monospace;
+}
+
+
+#startGame {
+    height: 80px;
+    background-color: rgb(255, 58, 24);
+    font-size: 40px;
+    font-weight: 600;
+    color: white;
+}
+
+
+#btnLess {
+    border-radius: 50%;
+    height: 85px;
+}
+
+#btnEqual {
+    border-radius: 50%;
+    width: 120px;
+}
+
+#btnOver {
+    border-radius: 50%;
+    height: 85px;
+}
+
+/*
+#btnRetry {
+    display: none;
+  }
+*/
